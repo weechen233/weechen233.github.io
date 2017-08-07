@@ -2,7 +2,7 @@
 
 Thank you for your valuable time to visit my blog
 
-
+![GitHub Logo](/regbg.jpg)
 
 ### Markdown
 
