@@ -10,6 +10,7 @@ Thank you for your valuable time to visit my blog
 
 ```markdown
 ![GitHub Logo](/白底彩照.jpg)
+![GitHub Logo](/regbg.jpg)
 -姓名：陈伟                       
 -性别：男
 -出生年月：1996.1
