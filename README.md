@@ -2,7 +2,7 @@
 
 Thank you for your valuable time to visit my blog
 
-![GitHub Logo](/白底彩照.jpg)
+![GitHub Logo](/白底彩照.JPG)
 
 ### Here is my resume
 
