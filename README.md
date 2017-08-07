@@ -30,8 +30,8 @@ Thank you for your valuable time to visit my blog
           大三荣获集美大学校优秀团员证书；
           2017年上半年获得软考数据库系统工程师中级证书。
 
-☆项目经验：2017年暑假参加了H5的实训，掌握了htnl、js、jQ、css、ajax等相关知识，小组形式完成了一个web端和微信端的小游戏。（游戏名：水果老虎机   http://47.93.25.241/student/zzx9/tiger/login/login.html）；
-自学了vue.js、es6、以及GitHub相关知识（个人博客主页：                https://weechen233.github.io/）；
+☆项目经验：2017年暑假参加了H5的实训，掌握了htnl、js、jQ、css、ajax等相关知识，小组形式完成了一  个web端和微信端的小游戏。（游戏名：水果老虎机http://47.93.25.241/student/zzx9/tiger/login/login.html）；   
+自学了vue.js、es6、以及GitHub相关知识（个人博客主页：https://weechen233.github.io/）；                
           
 ☆兴趣爱好：空余时间喜欢运动，篮球、羽毛球和游泳；阅读也是我的一个兴趣之一。
 
