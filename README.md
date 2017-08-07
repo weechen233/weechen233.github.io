@@ -1,29 +1,26 @@
-## Welcome to weechen GitHub Pages
+## Welcome to weechen GitHub Pages     #[新浪微博](http://weibo.com/u/1772438371/home?wvr=5&topnav=1&mod=logo)
 
 Thank you for your valuable time to visit my blog
 
 ![GitHub Logo](/regbg.jpg)
 
-### Markdown
+### Here is my resume
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+为人乐观开朗积极向上就是我的自我评价
 
 ```markdown
-Syntax highlighted code block
+[Link](白底彩照.jpg)
+-姓名：陈伟                       
+-性别：男
+-出生年月：1996.1
+-毕业院校：集美大学计算机科学与技术
+
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
