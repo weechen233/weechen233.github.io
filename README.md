@@ -1,12 +1,11 @@
-## Welcome to weechen GitHub Pages     [新浪微博](http://weibo.com/weechen233 "weechen个人微博")
+## Welcome to weechen Personal blog     
+                                                    [新浪微博](http://weibo.com/weechen233 "weechen个人微博")
 
 Thank you for your valuable time to visit my blog
 
 ![GitHub Logo](/白底彩照.JPG)
 
-### Here is my resume
-
-为人乐观开朗积极向上就是我:
+# Here is my resume
 
 ```markdown
 ☆姓名：陈伟                       
@@ -35,9 +34,7 @@ Thank you for your valuable time to visit my blog
           
 ☆兴趣爱好：空余时间喜欢运动，篮球、羽毛球和游泳；阅读也是我的一个兴趣之一。
 
-☆自我评价：性格乐观开朗，待人友好，为人真诚谦虚；工作认真勤奋，能吃苦耐劳有责任心。具有亲和力平易近人，善于与人沟通。希望找到一个适合我的平台让我发挥自己的优势，能为贵公司创造价值的同时提升自己。
-
-
+☆自我评价：性格乐观开朗，待人友好，为人真诚谦虚；工作认真勤奋，能吃苦耐劳有责任心。具有亲和力平易            近人，善于与人沟通。希望找到一个适合我的平台让我发挥自己的优势，能为贵公司创造价值的              同时提升自己。
 
 ```
 
