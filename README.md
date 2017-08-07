@@ -1,4 +1,4 @@
-## Welcome to weechen GitHub Pages     #[新浪微博](http://weibo.com/u/1772438371/home?wvr=5&topnav=1&mod=logo)
+## Welcome to weechen GitHub Pages     ###[新浪微博](http://weibo.com/u/1772438371/home?wvr=5&topnav=1&mod=logo)
 
 Thank you for your valuable time to visit my blog
 
@@ -9,7 +9,7 @@ Thank you for your valuable time to visit my blog
 为人乐观开朗积极向上就是我的自我评价
 
 ```markdown
-[Link](白底彩照.jpg)
+![image](白底彩照.jpg)
 -姓名：陈伟                       
 -性别：男
 -出生年月：1996.1
