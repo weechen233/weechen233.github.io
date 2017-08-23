@@ -3,7 +3,7 @@
 
 Thank you for your valuable time to visit my blog
 
-![GitHub Logo](/白底彩照.JPG)
+//![GitHub Logo](/白底彩照.JPG)
 
 # Here is my resume
 [index](/html/index.html)
